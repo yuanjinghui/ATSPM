@@ -1,2 +1,2 @@
 # ATSPM
-ATSPM Data Visulization
+ATSPM Data Visualization
